@@ -117,6 +117,14 @@ ul.menu li:hover
 	background: transparent;
 }
 
+
+
+.all_container
+{
+font-size: 0px;
+padding-top: 100px;
+}
+
 .hedtext
 {
 	font-family: "Trebuchet MS";
@@ -124,11 +132,6 @@ ul.menu li:hover
 	color: #354a56;
 	padding: 30px;
 	padding-left: 70px;
-}
-
-.all_container
-{
-font-size: 0px;
 }
 
 .container_blue, .container_orange, .container_green
